@@ -12,3 +12,19 @@
 <p><em>Turning curiosity into code, and data into insights.</em></p>
 
 </div>
+
+
+---
+
+## 👨‍💻 About Me
+
+I'm a data professional with a background in **Data Analytics, Business Intelligence, and Machine Learning**.
+
+- 🎓 **Education:** MSc Data Science, University of Bristol, UK
+- 💼 **Professional Experience:** Phoenix Real Estate Solutions & Steamcube Pvt. Ltd.
+- 📊 **Core Expertise:** Data Analysis, Power BI, SQL, Python & Excel
+- 🧠 **Currently Exploring:** Machine Learning, Statistical Modelling & Advanced Analytics
+- 🎯 **Career Focus:** Data Analytics, Business Intelligence & Applied Data Science
+
+> I believe meaningful insights begin with curiosity, thoughtful questions, and a willingness to explore beyond the obvious.
+
