@@ -223,6 +223,19 @@ Data Cleaning, KPI Reporting, Data Visualization
 
 ---
 
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vikrant3345&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;hide_rank=true" alt="Vikrant's GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikrant3345&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;hide_border=true" alt="Most Used Languages"/>
+
+</div>
+
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
